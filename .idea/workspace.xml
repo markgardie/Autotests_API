@@ -5,9 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b1ad6ad-ad2d-4e4e-b070-727e0b8de6dc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/RefacTestsPetStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/RefacTestsPetStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Config.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/PetStorePetEndPoint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/RefacTestsPetStore.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/RefacTestsPetStore_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/RefacTestsPetStore_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/RefacTestsPetStore_4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/RefacTestsPetStore_5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/RefacTestsPetStore_6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/SampleTestsPetStore.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/models/Category.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/models/Order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/models/Pet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/models/SimpleEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/models/Tag.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +47,16 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="JUnit.RefacTestsPetStore.verifyDeletion">
+  <component name="RunManager" selected="JUnit.RefacTestsPetStore">
+    <configuration name="RefacTestsPetStore" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Autotests_API" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RefacTestsPetStore" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RefacTestsPetStore.deletePet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Autotests_API" />
       <option name="PACKAGE_NAME" value="" />
@@ -66,16 +87,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RefacTestsPetStore.verifyNotExistingPetReturn200" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Autotests_API" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RefacTestsPetStore" />
-      <option name="METHOD_NAME" value="verifyNotExistingPetReturn200" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="RefacTestsPetStore.verifyNotExistingPetReturn404" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Autotests_API" />
       <option name="PACKAGE_NAME" value="" />
@@ -88,11 +99,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.RefacTestsPetStore" />
         <item itemvalue="JUnit.RefacTestsPetStore.verifyDeletion" />
         <item itemvalue="JUnit.RefacTestsPetStore.verifyNotExistingPetReturn404" />
         <item itemvalue="JUnit.RefacTestsPetStore.deletePet" />
         <item itemvalue="JUnit.RefacTestsPetStore.verifyBody" />
-        <item itemvalue="JUnit.RefacTestsPetStore.verifyNotExistingPetReturn200" />
       </list>
     </recent_temporary>
   </component>
