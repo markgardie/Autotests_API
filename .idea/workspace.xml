@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b1ad6ad-ad2d-4e4e-b070-727e0b8de6dc" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="4b1ad6ad-ad2d-4e4e-b070-727e0b8de6dc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/RefacTestsPetStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/RefacTestsPetStore.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,74 +21,66 @@
       </list>
     </option>
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1qDQAaF1QUZVodECFigEwSGVB8D" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="JUnit.RefacTestsPetStore_6.verifyPetHasIdAfterCreation">
-    <configuration name="RefacTestsPetStore_2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="PetsTestAPI" />
+  <component name="RunManager" selected="JUnit.RefacTestsPetStore.verifyDeletion">
+    <configuration name="RefacTestsPetStore.deletePet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Autotests_API" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RefacTestsPetStore_2" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RefacTestsPetStore_3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="PetsTestAPI" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RefacTestsPetStore_3" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RefacTestsPetStore_4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="PetsTestAPI" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RefacTestsPetStore_4" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RefacTestsPetStore_6.verifyPetCanBeCreated" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="PetsTestAPI" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RefacTestsPetStore_6" />
-      <option name="METHOD_NAME" value="verifyPetCanBeCreated" />
+      <option name="MAIN_CLASS_NAME" value="RefacTestsPetStore" />
+      <option name="METHOD_NAME" value="deletePet" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RefacTestsPetStore_6.verifyPetHasIdAfterCreation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="PetsTestAPI" />
+    <configuration name="RefacTestsPetStore.verifyBody" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Autotests_API" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RefacTestsPetStore_6" />
-      <option name="METHOD_NAME" value="verifyPetHasIdAfterCreation" />
+      <option name="MAIN_CLASS_NAME" value="RefacTestsPetStore" />
+      <option name="METHOD_NAME" value="verifyBody" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RefacTestsPetStore.verifyDeletion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Autotests_API" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RefacTestsPetStore" />
+      <option name="METHOD_NAME" value="verifyDeletion" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RefacTestsPetStore.verifyNotExistingPetReturn200" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Autotests_API" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RefacTestsPetStore" />
+      <option name="METHOD_NAME" value="verifyNotExistingPetReturn200" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RefacTestsPetStore.verifyNotExistingPetReturn404" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Autotests_API" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RefacTestsPetStore" />
+      <option name="METHOD_NAME" value="verifyNotExistingPetReturn404" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,14 +88,15 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.RefacTestsPetStore_6.verifyPetHasIdAfterCreation" />
-        <item itemvalue="JUnit.RefacTestsPetStore_6.verifyPetCanBeCreated" />
-        <item itemvalue="JUnit.RefacTestsPetStore_4" />
-        <item itemvalue="JUnit.RefacTestsPetStore_3" />
-        <item itemvalue="JUnit.RefacTestsPetStore_2" />
+        <item itemvalue="JUnit.RefacTestsPetStore.verifyDeletion" />
+        <item itemvalue="JUnit.RefacTestsPetStore.verifyNotExistingPetReturn404" />
+        <item itemvalue="JUnit.RefacTestsPetStore.deletePet" />
+        <item itemvalue="JUnit.RefacTestsPetStore.verifyBody" />
+        <item itemvalue="JUnit.RefacTestsPetStore.verifyNotExistingPetReturn200" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -110,16 +109,5 @@
       <updated>1616611537931</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/RefacTestsPetStore_6.java</url>
-          <line>75</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

@@ -27,8 +27,21 @@ public class RefacTestsPetStore {
                 .get(Config.PET_BY_STATUS)
                 .then()
                 .assertThat()
-                //.log().body()
+                .log().body()
                 .body(Matchers.notNullValue());
+    }
+
+    @Test
+    public void verifyDeletion() {
+        given()
+                .log().uri()
+                .baseUri(Config.PETSTORE_BASE_URL)
+                .pathParam("petId", "12131415")
+                .when()
+                .delete(Config.PET_BY_ID)
+                .then()
+                .log().body()
+                .statusCode(200);
     }
 
     @Test
